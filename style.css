@@ -26,6 +26,7 @@ main label,
 main span {
   font-size: 1.2em;
   font-weight: 700;
+  text-align: center;
 }
 main input {
   outline: none;
